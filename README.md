@@ -13,4 +13,4 @@ The app developed for the first part of the assignment is avalilable at:
 
 The presentation is available at: 
 
-Files for the presentation are avalilable on the GitHub: 
+Files for the presentation are avalilable on the GitHub: https://github.com/reddytkv/ddp_week4_Assignment
