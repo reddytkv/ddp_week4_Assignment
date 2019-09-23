@@ -11,6 +11,6 @@ Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pit
 
 The app developed for the first part of the assignment is avalilable at: 
 
-The presentation is available at: 
+The presentation is available at: http://rpubs.com/reddytkv/531152
 
 Files for the presentation are avalilable on the GitHub: https://github.com/reddytkv/ddp_week4_Assignment
